@@ -1,6 +1,12 @@
 """
 Independência de Eventos
 Demonstra quando dois eventos são independentes: P(A ∩ B) = P(A) * P(B)
+
+Desenvolvido por: Thiago Rodrigues Pantoja
+Empresa: EasyNext Informática LTDA
+Emails: thiago.pantoja@easynext.tech | thiago.pantoja@easynext.consulting
+Telefones: (11) 98801-0667 | (92) 98456-1928
+Data: Setembro 2025
 """
 
 import random

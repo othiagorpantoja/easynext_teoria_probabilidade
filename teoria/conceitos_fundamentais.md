@@ -1,5 +1,11 @@
 # Conceitos Fundamentais da Teoria da Probabilidade
 
+**Desenvolvido por:** Thiago Rodrigues Pantoja  
+**Empresa:** EasyNext Informática LTDA  
+**Emails:** thiago.pantoja@easynext.tech | thiago.pantoja@easynext.consulting  
+**Telefones:** (11) 98801-0667 | (92) 98456-1928  
+**Data:** Setembro 2025  
+
 ## 1. Introdução
 
 A teoria da probabilidade é um ramo da matemática que estuda fenômenos aleatórios e incertos. Ela fornece ferramentas para quantificar a incerteza e fazer previsões baseadas em dados e modelos estatísticos.

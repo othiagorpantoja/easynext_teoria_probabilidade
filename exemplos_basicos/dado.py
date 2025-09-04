@@ -1,6 +1,12 @@
 """
 Exemplo básico: Lançamento de Dado
 Demonstra espaço amostral, eventos e probabilidades
+
+Desenvolvido por: Thiago Rodrigues Pantoja
+Empresa: EasyNext Informática LTDA
+Emails: thiago.pantoja@easynext.tech | thiago.pantoja@easynext.consulting
+Telefones: (11) 98801-0667 | (92) 98456-1928
+Data: Setembro 2025
 """
 
 import random
